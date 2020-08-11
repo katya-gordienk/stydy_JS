@@ -5,5 +5,5 @@ let addExpenses = 'true';
 let deposit = 156;
 let mission = 'Hemo';
 let period;
-console.log(money);
+console.log(period);
 alert(deposit);
